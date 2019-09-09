@@ -1,21 +1,21 @@
 {
-  "name": "bateeq-models",
+  "name": "mm-models",
   "version": "1.1.0",
-  "description": "bateeq models",
+  "description": "Major Minor models",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danliris/bateeq-models.git"
+    "url": "git+https://github.com/efrata-majorminor/mm-models.git"
   },
   "author": "Moonlay",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danliris/bateeq-models/issues"
+    "url": "https://github.com//efrata-majorminor/mm-models/issues"
   },
-  "homepage": "https://github.com/danliris/bateeq-models#readme",
+  "homepage": "https://github.com//efrata-majorminor/mm-models#readme",
   "dependencies": { 
     "model-toolkit": "git+https://github.com/pinkgorilla/model-toolkit.git",
     "should": "^10.0.0"

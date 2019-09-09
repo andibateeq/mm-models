@@ -1,2 +1,2 @@
-# bateeq-models
-bateeq models
+# mm-models
+major minor models
